@@ -1,0 +1,6 @@
+selene==1.0.0.a13
+pytest==5.2.4
+selenium==3.141.0
+uuid==1.30
+pytest-testdox==1.2.1
+pytest-html==1.20.0
