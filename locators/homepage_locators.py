@@ -1,5 +1,6 @@
 from selene.api import s
 
+# locators for homepage
 
 class HomepageLocators(object):
 

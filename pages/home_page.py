@@ -1,5 +1,6 @@
 from locators.homepage_locators import HomepageLocators
 
+# methods for homepage
 
 class HomePage(object):
 

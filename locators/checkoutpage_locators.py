@@ -1,5 +1,6 @@
 from selene.api import s, browser, by
 
+# locators for checkout page
 
 class CheckoutpageLocators(object):
 

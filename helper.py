@@ -1,6 +1,7 @@
 from selene.api import s, by, browser, have
 import uuid
 
+# here we store common methods that applicable to all pages
 
 def element_with_text(text):
     return s(by.text(text))

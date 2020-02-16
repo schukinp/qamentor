@@ -4,6 +4,7 @@ from selene.api import browser, be
 from selene import config
 from locators.homepage_locators import HomepageLocators
 
+# pre test conditions are located here including browser and base_url
 
 @pytest.fixture(scope='session')
 def open_base_url(set_browser, set_base_url):

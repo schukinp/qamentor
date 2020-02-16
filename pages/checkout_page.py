@@ -1,7 +1,7 @@
 from locators.checkoutpage_locators import CheckoutpageLocators
 from selene.api import have, be, browser, s, by
-from time import sleep
 
+# methods for Checkout page
 
 class CheckoutPage(object):
 
